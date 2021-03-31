@@ -1,0 +1,1 @@
+# tuya-iotos-embeded-demo-ble-tap-module
